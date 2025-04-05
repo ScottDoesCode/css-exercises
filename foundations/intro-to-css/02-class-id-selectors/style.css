@@ -1,6 +1,11 @@
-p {
+.even {
     background-color: lightpink;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    margin: 20px 0;
+}
+
+.font {
+    font-size: 24px;
 }
 
 #id1 {
